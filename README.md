@@ -3,7 +3,7 @@
   <p></p>
 </p>
 
-<h2 align="center" style='f'> Hi there, I'm Edwin Mongare 👋</h2> <p align="center"> 🎓 Senior at Rutgers University, passionate about development and constantly exploring the possibilities of new technologies. When I'm not coding, Im designing and outlining new ideas.
+<h2 align="center" style='f'> Hi there, I'm Edwin Mongare 👋</h2> <p align="center"> 🎓 Senior at Rutgers University, passionate about development and exploring the possibilities of new technologies. When I'm not coding, Im designing and outlining new ideas.
 
 </p> <h2 align="center">🚀 Languages and Tools </h2>
 
