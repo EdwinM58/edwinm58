@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <p align=center>  
-(<img width ="40%" src="https://github-readme-stats.vercel.app/api?username=edwinm58&show_icons=true&theme=highcontrast">)
+<img width ="40%" src="https://github-readme-stats.vercel.app/api?username=edwinm58&show_icons=true&theme=highcontrast">
     <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinm58&layout=compact&theme=highcontrast" />
   </p>
 </p>
